@@ -1,26 +1,18 @@
 <svelte:head>
-	<title>About</title>
-	<meta name="description" content="About this app" />
+  <title>Applications</title>
+  <meta name="description" content="Raphael Applications" />
 </svelte:head>
 
 <div class="text-column">
-	<h1>About this app</h1>
+  <h1>You choosed the dark side... i understand</h1>
 
-	<p>
-		This is a <a href="https://svelte.dev/docs/kit">SvelteKit</a> app. You can make your own by typing
-		the following into your command line and following the prompts:
-	</p>
-
-	<pre>npx sv create</pre>
-
-	<p>
-		The page you're looking at is purely static HTML, with no client-side interactivity needed.
-		Because of that, we don't need to load any JavaScript. Try viewing the page's source, or opening
-		the devtools network panel and reloading.
-	</p>
-
-	<p>
-		The <a href="/sverdle">Sverdle</a> page illustrates SvelteKit's data loading and form handling. Try
-		using it with JavaScript disabled!
-	</p>
+  <p>I am a software developer. I deployed some apps. Check them out</p>
+  <li>
+    Impro_King - An app that makes your Ears so precise that you can play along
+    every song
+  </li>
+  <li>
+    Floyd Rose Tuner - Tuning Floyd Rose Guitars is hell. This app fixes
+    everything
+  </li>
 </div>

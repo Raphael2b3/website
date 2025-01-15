@@ -1,26 +1,21 @@
 <svelte:head>
-	<title>About</title>
-	<meta name="description" content="About this app" />
+  <title>Game Music Production</title>
+  <meta name="description" content="About this app" />
 </svelte:head>
 
 <div class="text-column">
-	<h1>About this app</h1>
+  <h1>I'll make you the best game music</h1>
 
-	<p>
-		This is a <a href="https://svelte.dev/docs/kit">SvelteKit</a> app. You can make your own by typing
-		the following into your command line and following the prompts:
-	</p>
+  <p>
+    Since I started playing Pokémon as a kid, I always wanted to do video game
+    music. All my songs sound like video game music. Checkout my Soundcloud: <a
+      href="https://soundcloud.com/raphi-s-370595614">CLOUDSOUND</a
+    >
+    and my other music projects <a href="/music">and collabs</a>
+  </p>
 
-	<pre>npx sv create</pre>
-
-	<p>
-		The page you're looking at is purely static HTML, with no client-side interactivity needed.
-		Because of that, we don't need to load any JavaScript. Try viewing the page's source, or opening
-		the devtools network panel and reloading.
-	</p>
-
-	<p>
-		The <a href="/sverdle">Sverdle</a> page illustrates SvelteKit's data loading and form handling. Try
-		using it with JavaScript disabled!
-	</p>
+  <p>
+    so hit me up on instagram and book me as video game music producer for your
+    cool game.
+  </p>
 </div>
