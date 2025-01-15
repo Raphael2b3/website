@@ -12,12 +12,12 @@
     AppleMusic and Youtube.
   </p>
 
-  <p>
+  <p style="display: flex; gap: 1rem;">
     If you are person who dont help your friends, you are a peace of ****. Here
     checkout my musician friends:
     <li>
-      ic4russ - drummer and musical genius <a href=""
-        >really beautiful Instagram</a
+      ic4russ - drummer and musical genius <a
+        href="https://www.instagram.com/ic4russ/">really beautiful Instagram</a
       >
       and
       <a href="https://morphose-records.com/sheeeesh-gefuehle-recyceln"
@@ -34,6 +34,20 @@
       detachedvision - the most chilled guys you'll meet in berlin, <a
         href="https://www.instagram.com/detachedvision/"
         >music production studio</a
+      >
+    </li>
+
+    <li>
+      Carmolina - famous afropop singer. we are building a band. <a
+        href="https://www.instagram.com/carmolinasmusic/">her instagram</a
+      >
+    </li>
+
+    <li>
+      michael the drummer - famous drummer, insane drummer, cool guy, talent, we
+      are building a band too<a
+        href="https://www.instagram.com/michaelthedrummer/"
+        >drum it, for michael the drummer</a
       >
     </li>
   </p>

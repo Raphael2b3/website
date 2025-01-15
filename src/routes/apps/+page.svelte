@@ -15,4 +15,12 @@
     Floyd Rose Tuner - Tuning Floyd Rose Guitars is hell. This app fixes
     everything
   </li>
+
+  <li>Trading System - A Bot that just makes money for me with stock market</li>
+
+  <li>
+    Shortcut Invoker - An App for PC and Android that allows you to call
+    shortcuts on your PC. For example: The drummer wants to start the recording
+    on the pc 3 meters away from him. or restart it...
+  </li>
 </div>
