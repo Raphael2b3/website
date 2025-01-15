@@ -18,4 +18,10 @@
     so hit me up on instagram and book me as video game music producer for your
     cool game.
   </p>
+  <h1>I'll play the most beautiful guitar samples</h1>
+
+  <p>
+    I have played so many studio sessions... and f****** love it. Lets do some
+    more. See ya
+  </p>
 </div>
