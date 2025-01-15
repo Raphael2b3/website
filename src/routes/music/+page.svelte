@@ -7,21 +7,21 @@
   <h1>New insane discovery!</h1>
 
   <p>
-    You have discovered the Musical Raphael. He plays the Guitar for over 14
-    Years. You can find him in many Songs on streaming platforms like Spotify or
-    AppleMusic and Youtube.
+    You have discovered the musical Raphael. He has been playing the guitar for
+    over 14 years. You can find him in many songs on streaming platforms such as
+    Spotify or AppleMusic and Youtube.
   </p>
 
   <p style="display: flex; gap: 1rem;">
-    If you are person who dont help your friends, you are a peace of ****. Here
-    checkout my musician friends:
+    If you are a person who doesn't help your friends, you are a peace of ****.
+    Here checkout my musician friends:
     <li>
       ic4russ - drummer and musical genius <a
         href="https://www.instagram.com/ic4russ/">really beautiful Instagram</a
       >
       and
       <a href="https://morphose-records.com/sheeeesh-gefuehle-recyceln"
-        >His insane cool Website</a
+        >His insane cool website</a
       >
     </li>
     <li>
@@ -38,14 +38,14 @@
     </li>
 
     <li>
-      Carmolina - famous afropop singer. we are building a band. <a
+      Carmolina - famous afropop singer. we are forming a band. <a
         href="https://www.instagram.com/carmolinasmusic/">her instagram</a
       >
     </li>
 
     <li>
       michael the drummer - famous drummer, insane drummer, cool guy, talent, we
-      are building a band too<a
+      are forming a band too <a
         href="https://www.instagram.com/michaelthedrummer/"
         >drum it, for michael the drummer</a
       >
