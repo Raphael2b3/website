@@ -13,7 +13,6 @@
   </p>
 
   <p style="display: flex; gap: 1rem;">
-    If you are a person who doesn't help your friends, you are a peace of ****.
     Here checkout my musician friends:
     <li>
       ic4russ - drummer and musical genius <a

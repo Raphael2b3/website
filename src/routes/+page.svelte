@@ -8,16 +8,21 @@
 
 <section>
   <h1>
-    You<br />
-    Welcome on my website, <br />You have to be someone special
+    I am Raphael, <br />
+    Welcome on my website, <br />
   </h1>
-
-  <h2>On this website you'll find something that no one has seen before.</h2>
-
-  <h2>All my Projects... some of them could make you rich.</h2>
+  <h2>You have following Options:</h2>
 </section>
 <section>
-  <h2><a href=""></a></h2>
+  <h2>
+    <a
+      target="_blank"
+      rel="noopener noreferrer"
+      href="https://forms.gle/SBQL2ZoPdvFcnKy99"
+      >Become a Tester for my latest app</a
+    >
+  </h2>
+  <h2>checkout the rest of this page (work in progress)</h2>
 </section>
 
 <style>
